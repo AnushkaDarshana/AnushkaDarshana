@@ -81,13 +81,11 @@
 </a>  
 </div>  
   
-
+## Profile Views
 <br/>  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=AnushkaDarshana&&style=flat-square" align="center" />
-</div>  
-  
-
+</div> 
 <br/>  
 
 <div align="center">
