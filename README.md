@@ -15,7 +15,7 @@
 <br/>  
 
 
-## My Skill Set  
+<h3 align="left">Skill set</h3>
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -96,6 +96,4 @@
 <h3 align="left"> Github Stats </h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushkadarshana&show_icons=true&locale=en&layout=compact" alt="anushkadarshana" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushkadarshana&show_icons=true&locale=en" alt="anushkadarshana" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushkadarshana&" alt="anushkadarshana" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushkadarshana&" alt="anushkadarshana" /></p>
