@@ -1,11 +1,4 @@
-### Hi there 👋
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Anushka, a full-time full-stack software developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">Hi there 👋, I'm Anushka. I'm a full-time full-stack software developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
 - 🔭 I’m currently searching for a vacancy  
@@ -19,14 +12,11 @@
 
 - ⚡ Fun fact: I use tabs over spaces  
   
-
 <br/>  
 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
