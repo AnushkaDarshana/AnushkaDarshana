@@ -1,7 +1,7 @@
 ### <div align="center">Hi there 👋, I'm Anushka. I'm a full-time full-stack software developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 🔭 I’m currently searching for a vacancy  
+- 🔭 I’m currently working on Research Projects 
   
 
 - 🌱 I’m currently learning Continual Learning  
